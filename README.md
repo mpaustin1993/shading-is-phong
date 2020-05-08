@@ -1,4 +1,4 @@
-# 3D Object Rendering w/ Phong Shading
+# Phong Shading Experimentation
 Third homework for Interactive Computer Graphics
 
 I used Microsoft Visual Studio 2019 with directory links to the GLEW, GLFW, and GLM Include PATHs and libraries. I also included glew32s.lib and glfw3.lib in the additional directories of the project's settings. This homework can be compiled via the debugger in Visual Studio 2019 - compiling should produce an orange cube which can be viewed from different angles using the WASD keys.
